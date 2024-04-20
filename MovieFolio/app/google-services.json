@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093707181653",
+    "project_id": "filmfolio-6cf4c",
+    "storage_bucket": "filmfolio-6cf4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093707181653:android:c3a9d15605d357572aaedc",
+        "android_client_info": {
+          "package_name": "com.example.bookappfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDmNlW7dg5KJycf41gvpPYQD5Mb13nMN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
